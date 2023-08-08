@@ -1,0 +1,7 @@
+pandas
+nltk
+gensim
+pyLDAvis
+matplotlib
+wordcloud
+ipython
